@@ -1,0 +1,6 @@
+{
+  "name": "Nahi Ai - App Builder",
+  "description": "Generate AI prompts for Website and Mobile app development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
